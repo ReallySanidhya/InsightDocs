@@ -24,3 +24,7 @@ Here, I chose Streamlit for rapid UI development, FastAPI for efficient backend 
 You can contact me if you face any issues while setting it up
                                                        - Sanidhya :) 
 
+
+
+https://github.com/user-attachments/assets/a5acd5cc-ed65-4f42-ad6f-8300bfa6312b
+
