@@ -1,7 +1,5 @@
 # InsightDocs
 <img width="1658" height="952" alt="image" src="https://github.com/user-attachments/assets/109820e9-0356-4216-8c36-40a33743853b" />
-<img width="1408" height="110" alt="image" src="https://github.com/user-attachments/assets/bf9ebaef-f9a9-4eb0-9838-02c818975084" />
-
 
 I built an AI research assistant using a RAG pipeline that allows users to upload PDFs and query them. The system extracts and chunks text, converts it into embeddings, and uses FAISS for semantic retrieval. The retrieved context is then passed to a local LLM to generate grounded answers with source citations, reducing hallucination and improving reliability.
 
